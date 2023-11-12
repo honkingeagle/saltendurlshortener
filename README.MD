@@ -1,6 +1,6 @@
 ## About the project
 
-This is a HTTP Service that runs concurrently with a telegram bot service. Its basically a web server and a telegram bot.
+This is a URL shortener service, a HTTP Service that runs concurrently with a telegram bot service. Its basically a web server and a telegram bot.
 
 ## Getting Started
 
